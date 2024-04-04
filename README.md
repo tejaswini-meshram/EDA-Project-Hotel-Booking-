@@ -6,9 +6,9 @@ This repository contains an exploratory data analysis (EDA) project based on the
 
 FILES : 
 
-Sample_EDA_Submission_Template.ipynb : Google Colab containing the EDA project code and analysis.
+[Sample_EDA_Submission_Template.ipynb](https://github.com/tejaswini-meshram/EDA-Project-Hotel-Booking-/blob/main/Sample_EDA_Submission_Template.ipynb) : Google Colab containing the EDA project code and analysis.
 
-README.md :  This file, providing an overview of the project and instructions for running the colab.
+[README.md](https://github.com/tejaswini-meshram/EDA-Project-Hotel-Booking-/blob/main/README.md) :  This file, providing an overview of the project and instructions for running the colab.
 
 DEPENDENCIES
 
